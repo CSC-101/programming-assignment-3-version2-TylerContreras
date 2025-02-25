@@ -1,6 +1,8 @@
 import data
 import build_data
 import unittest
+import hw.3
+
 
 
 # These two values are defined to support testing below. The
