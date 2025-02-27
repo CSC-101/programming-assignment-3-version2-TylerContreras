@@ -185,7 +185,7 @@ class TestCases(unittest.TestCase):
     # Part 1
     # test population_total
     def setUp(self):
-        """Sets up a list of test counties for various unit tests."""
+        #Sets up a list of test counties for various unit tests.
         self.test_counties = [
             CountyDemographics(
                 {}, "Test County 1",
